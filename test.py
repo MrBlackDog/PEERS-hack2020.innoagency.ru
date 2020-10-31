@@ -222,7 +222,7 @@ def progstart():
                 maspath1y.append(canvas.winfo_height() - int(int(board1[i][1]) / pxinY))
                 for j in range(5):
                     if j==0:
-                        canvas.create_oval(maspath1x[j]-1, maspath1y[j]-1, maspath1x[j] + 2, maspath1y[j] + 4, fill="red", tag='path')
+                        canvas.create_oval(maspath1x[j]-1, maspath1y[j]-1, maspath1x[j] + 2, maspath1y[j] + 2, fill="red", tag='path')
                     if j==1:
                         canvas.create_oval(maspath1x[j]-1, maspath1y[j]-1, maspath1x[j] + 2, maspath1y[j] + 4, fill="red", tag='path')
                     if j==2:
