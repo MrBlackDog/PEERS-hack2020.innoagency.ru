@@ -11,5 +11,3 @@
         #    #    ###
         #    #    #
          ### #### ####
-
-         # kto prochel tot zdohknet)))))))
