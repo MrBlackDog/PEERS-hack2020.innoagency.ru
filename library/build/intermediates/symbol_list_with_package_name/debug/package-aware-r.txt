@@ -1,0 +1,18 @@
+com.onlylemi.mapview.library
+mipmap compass
+mipmap end_point
+mipmap mark
+mipmap mark_touch
+mipmap start_point
+string app_name
+string imperial_units
+string imperial_units_unit
+string metric_units
+string metric_units_unit
+string unit_cm
+string unit_ft
+string unit_in
+string unit_km
+string unit_m
+string unit_mi
+string unit_yd
